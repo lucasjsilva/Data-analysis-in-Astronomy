@@ -1,2 +1,5 @@
-# An-lise-de-dados-em-Astronomia
-Conjunto de exercícios e exemplos estudados ao longo da disciplina de Análise de Dados em Astronomia oferecida pelo IAG-USP
+# Data analysis in Astronomy
+Set of exercises and examples that were studied in the discipline offered by IAG-USP
+
+## Index
+- Probability and statistics
